@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    font-size: 35px;
+    color: #E4E4E4;
+    text-transform: uppercase;
+    font-stretch: condensed;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd; 
+}
+
+/* Menu */
+.menu{
+    padding-top: 10px;
+}
+.menu ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+.menu ul li{
+    margin-top: 16px;
+    color: #777676;
+    font-weight: 550;
+    cursor: pointer;
+    padding: 10px 16px 10px 16px;
+}
+
+.menu ul li.menu-active {
+    background-color: #4643ee12;
+    color: blue;
+    border-radius: 10px;
+}
+
+/* pages */
+.page-title h2{
+    font-weight: 500;
+    font-size: 30px;
+}
+
+/* tab section */
+.tab-section {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tab-section ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.tab-section ul li {
+    margin-right: 20px;
+    font-weight: 500;
+    color: #777676;
+    cursor: pointer;
+}
+
+.tab-section ul li.active {
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+
+.tab-section span {
+    font-size: 20px;
+    color: #777676;
+    font-weight: 500;
+}
+.tab-section{
+    border-bottom: 2px solid #E4E4E4;    
+}
+
+.tab-section span{
+    font-size: 15px;
+    background-color: #F6D8D8;
+    color: red;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+
+/* tabs body */
+.tabs-body{
+    margin-top: 15px;
+}
+.tabs-body > div{
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    display: none;
+    transition: opacity 300ms ease-in-out 0ms;
+}
+.tabs-body > div.active{
+    opacity: 1;
+    transition: opacity 300ms ease-in-out 0ms;
+    display: block;
+}
+.tabs-body-filters .Risk-levels{
+    font-size: 13px;
+    background-color: #E4E4E4;
+}
