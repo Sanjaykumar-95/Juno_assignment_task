@@ -1,0 +1,61 @@
+[
+    {
+       "user": "Sam Altman",
+       "email": "samaltman123@gmail.com",
+       "risklevel": "Medium",
+       "triggerreason": "IP Change",
+       "inqueuefor": "4 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "Yes",
+       "reviewedDate":"23 Aug,2023"
+    },
+    {
+       "user": "Sameer Choubey",
+       "email": "sameerchoubey123@gmail.com",
+       "risklevel": "High",
+       "triggerreason": "FIFO",
+       "inqueuefor": "4 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "No"
+    },
+    {
+       "user": "Adarsh Panikkar",
+       "email": "adarsh@onjuno.com",
+       "risklevel": "Low",
+       "triggerreason": "IP Change",
+       "inqueuefor": "5 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "No"
+    },
+    {
+       "user": "Pratik Shetty",
+       "email": "pratik3@gmail.com",
+       "risklevel": "High",
+       "triggerreason": "FIFO",
+       "inqueuefor": "5 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "Yes",
+       "reviewedDate":"12 Sep,2023"
+    },
+    {
+       "user": "Elon Musk",
+       "email": "elon@twitterceo.com",
+       "risklevel": "Low",
+       "triggerreason": "FIFO",
+       "inqueuefor": "5 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "Yes",
+       "reviewedDate":"12 Sep,2023"
+    },
+    {
+       "user": "Trina Kundu",
+       "email": "trina@onjuno.com",
+       "risklevel": "Low",
+       "triggerreason": "FIFO",
+       "inqueuefor": "5 days",
+       "dateaddedon": "12 Oct, 2023",
+       "previouslyreviewed": "Yes",
+       "reviewedDate":"12 Sep,2023"
+    }
+    
+   ]

@@ -1,0 +1,63 @@
+[
+    {
+       "user": "Sam Altman",
+       "email": "samaltman123@gmail.com",
+       "risklevel": "Medium",
+       "actionreason": "Flagged",
+       "timetoclose": "14 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Neil",
+       "actionmail":"neil@onjuno.com"
+    },
+    {
+       "user": "Sameer Choubey",
+       "email": "sameerchoubey123@gmail.com",
+       "risklevel": "Closed",
+       "actionreason": "FIFO",
+       "timetoclose": "14 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Pratik",
+       "actionmail":"prathik@onjuno.com"
+    },
+    {
+       "user": "Adarsh Panikkar",
+       "email": "adarsh@onjuno.com",
+       "risklevel": "Low",
+       "actionreason": "Cleared",
+       "timetoclose": "15 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Prashant",
+       "actionmail":"prashant@onjuno.com"
+    },
+    {
+       "user": "Pratik Shetty",
+       "email": "pratik3@gmail.com",
+       "risklevel": "High",
+       "actionreason": "SOI requested",
+       "timetoclose": "15 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Rasleen Kaur",
+       "actionmail":"rasleen@onjuno.com"
+    },
+    {
+       "user": "Elon Musk",
+       "email": "elon@twitterceo.com",
+       "risklevel": "Low",
+       "actionreason": "Flagged",
+       "timetoclose": "15 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Pratik shetty",
+       "actionmail":"pratik@onjuno.com"
+    },
+    {
+       "user": "Trina Kundu",
+       "email": "trina@onjuno.com",
+       "risklevel": "Low",
+       "actionreason": "Closed",
+       "timetoclose": "15 days",
+       "dateaddedon": "12 Oct, 2023",
+       "actiontakenby": "Varun Deshpande",
+       "actionmail":"varun@onjuno.com"
+    }
+    
+   ]
