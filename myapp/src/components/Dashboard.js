@@ -14,7 +14,7 @@ function Dashboard() {
 
     // Fetching Pending Data from JSON file
     useEffect(() => {
-        fetch('https://juno-task-fe-role.netlify.app/pendingdata.json')
+        fetch('http://localhost:3000/pendingdata.json')
           .then(res => res.json())
           .then(data => {
             setPrecords(data);
@@ -25,7 +25,7 @@ function Dashboard() {
 
     // Fetching Completed Data from JSON file
       useEffect(() => {
-        fetch('https://juno-task-fe-role.netlify.app/completeddata.json')
+        fetch('http://localhost:3000/completeddata.json')
           .then(res => res.json())
           .then(data => {
             setCrecords(data);
